@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstListView</string>
+    <string-array name="compositores">
+        <item>Compositores</item>
+        <item>Vivaldi</item>
+        <item>Bach</item>
+        <item>Beethoven</item>
+        <item>Mozart</item>
+        <item>Shostakovich</item>
+    </string-array>
+</resources>
